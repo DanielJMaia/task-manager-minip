@@ -1,4 +1,13 @@
 {
+    "aws": {
+        "@awsRegion": "eu-west-2"
+    },
+    "build": {
+        "@saveall": true
+    },
+    "instance": {
+        "@automaticShutdown": "30"
+    },
     "language": {
         "tern_defs": {
             "json()": {
